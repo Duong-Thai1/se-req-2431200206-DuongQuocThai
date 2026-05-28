@@ -1,5 +1,5 @@
 {
-  "savedAt": "2026-05-28T13:47:23.542Z",
+  "savedAt": "2026-05-28T13:48:56.716Z",
   "groups": [
     {
       "id": "7ce400ee-9855-4b16-914c-e7c5f9500af8",
@@ -22,6 +22,16 @@
       "id": "c65c1fd5-ac0d-4f77-9c13-a5b6085c4f09",
       "title": "US001: Menu Filter",
       "description": "As a student, I want to be able to filter ingredients as checkboxes, so that I can avoid stuff that I can't consume.\n\nAcceptance criteria:\n1. Filtered food mustn't appear in the filtered menu.\n2. Loading menu can only take less than 5 seconds.\n3. Food user interface mustn't be outside of the menu box user interface.",
+      "groupId": "b7bb2cec-aa48-4ad0-a36e-6e5a796781b7",
+      "status": "todo",
+      "type": "User Story",
+      "priority": "High",
+      "owner": "Product Owner"
+    },
+    {
+      "id": "43f0ce08-5f28-4aa7-95bc-e6aeb47cd046",
+      "title": "US002: Menu sorting",
+      "description": "As a student, I want the app to be able to sort food by price, sales, ratings ascending or descending, so that I can save time ordering food.\n\nAcceptance criteria:\n1. Sorting feature must only include filtered products (US001)\n2. Sorting must take less than 3 seconds\n3. All products must show correctly in ascending or descending order.",
       "groupId": "b7bb2cec-aa48-4ad0-a36e-6e5a796781b7",
       "status": "todo",
       "type": "User Story",

@@ -1,5 +1,5 @@
 {
-  "savedAt": "2026-05-28T13:44:47.212Z",
+  "savedAt": "2026-05-28T13:45:30.298Z",
   "groups": [
     {
       "id": "233a95b6-8518-40e0-925b-6658ae93b641",
@@ -67,6 +67,36 @@
       "type": "User Story",
       "priority": "Urgent",
       "owner": "Product Owner"
+    },
+    {
+      "id": "708b7e5e-671f-49d9-8bcf-d1845cc579c6",
+      "title": "NFR Epic 1: Security: Account can only be created if there is at least a \".edu\" in",
+      "description": "Security: Account can only be created if there is at least a \".edu\" in their email.",
+      "groupId": "6d2cebc6-f888-4106-a067-49356522d25c",
+      "status": "todo",
+      "type": "Epic",
+      "priority": "Medium",
+      "owner": ""
+    },
+    {
+      "id": "92e17f59-26a1-4b26-8926-5245a08e4208",
+      "title": "NFR Epic 2: Security: Users must choose a safe zone before they can chat.",
+      "description": "Security: Users must choose a safe zone before they can chat.",
+      "groupId": "6d2cebc6-f888-4106-a067-49356522d25c",
+      "status": "todo",
+      "type": "Epic",
+      "priority": "Medium",
+      "owner": ""
+    },
+    {
+      "id": "223bf8bc-e771-4d41-82bf-e9cb0209e620",
+      "title": "NFR Epic 3: Performance: The app must get correct item's ISBN and Title from the b",
+      "description": "Performance: The app must get correct item's ISBN and Title from the barcode.",
+      "groupId": "6d2cebc6-f888-4106-a067-49356522d25c",
+      "status": "todo",
+      "type": "Epic",
+      "priority": "Medium",
+      "owner": ""
     }
   ],
   "analysis": {

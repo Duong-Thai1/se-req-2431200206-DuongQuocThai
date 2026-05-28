@@ -1,5 +1,5 @@
 {
-  "savedAt": "2026-05-28T13:35:26.662Z",
+  "savedAt": "2026-05-28T13:36:31.709Z",
   "groups": [
     {
       "id": "3276a7b7-66ec-412f-aa9a-32c828fb5297",
@@ -46,6 +46,16 @@
       "status": "todo",
       "type": "User Story",
       "priority": "Medium",
+      "owner": "Product Owner"
+    },
+    {
+      "id": "57fc7f59-96dc-4be8-af92-5494a3ca5cbf",
+      "title": "US004: Manual system override",
+      "description": "As a Head of Advising, I want to override the system manually if a student has special permission, so that I can handle exceptions when I need to.\n\nAcceptance Criteria:\n1. The app must ensure that adding the class won't cause data conflicts in database.\n2. The database related to the class must be updated even if the class is full using manual system override.\n3. The feature can only be used by advisors.\n4. The system must log for every manual system override.",
+      "groupId": "12df1d2a-ef82-474c-a8e8-4747dad932fe",
+      "status": "todo",
+      "type": "User Story",
+      "priority": "High",
       "owner": "Product Owner"
     }
   ],

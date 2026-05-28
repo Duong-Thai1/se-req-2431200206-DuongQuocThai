@@ -1,5 +1,5 @@
 {
-  "savedAt": "2026-05-28T13:37:50.601Z",
+  "savedAt": "2026-05-28T13:39:07.807Z",
   "groups": [
     {
       "id": "3276a7b7-66ec-412f-aa9a-32c828fb5297",
@@ -67,6 +67,36 @@
       "type": "User Story",
       "priority": "Urgent",
       "owner": "Product Owner"
+    },
+    {
+      "id": "e92cdd1c-3f3d-4a87-93cb-4d24b19336ae",
+      "title": "NFR Epic 1: Security: Student mustn't be able to see another student schedule.",
+      "description": "Security: Student mustn't be able to see another student schedule.",
+      "groupId": "12df1d2a-ef82-474c-a8e8-4747dad932fe",
+      "status": "todo",
+      "type": "Epic",
+      "priority": "Medium",
+      "owner": ""
+    },
+    {
+      "id": "1326dec9-4cf1-4d8d-a23d-5542d100b2d1",
+      "title": "NFR Epic 2: Security: The system must log every time an advisor manually overrides",
+      "description": "Security: The system must log every time an advisor manually overrides a prerequisite for audit purposes.",
+      "groupId": "12df1d2a-ef82-474c-a8e8-4747dad932fe",
+      "status": "todo",
+      "type": "Epic",
+      "priority": "Medium",
+      "owner": ""
+    },
+    {
+      "id": "b4a8cf64-c571-4e9b-8608-9cf1402669ad",
+      "title": "NFR Epic 3: Security: Student musn't be able to add class that is full to their ro",
+      "description": "Security: Student musn't be able to add class that is full to their roadmap.",
+      "groupId": "12df1d2a-ef82-474c-a8e8-4747dad932fe",
+      "status": "todo",
+      "type": "Epic",
+      "priority": "Medium",
+      "owner": ""
     }
   ],
   "analysis": {

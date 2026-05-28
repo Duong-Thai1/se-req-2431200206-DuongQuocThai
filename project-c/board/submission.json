@@ -1,5 +1,5 @@
 {
-  "savedAt": "2026-05-28T13:25:00.257Z",
+  "savedAt": "2026-05-28T13:26:46.825Z",
   "groups": [
     {
       "id": "7ce400ee-9855-4b16-914c-e7c5f9500af8",
@@ -20,7 +20,7 @@
   "tickets": [],
   "analysis": {
     "ambiguity1": "\"I need to filter the entire menu\" is unclear. We don't know how the filter should work (whitelisting / blacklisting, sorting food descending or ascending by price, include only drinks / foods,...).",
-    "ambiguity2": "",
+    "ambiguity2": "\"I need to be able to mark an item as Sold Out instantly\" is vague. We don't know how fast the feature should be (200 miliseconds or 5 seconds or 10 minutes,...).",
     "conflictSolution": "",
     "nfr1": "",
     "nfr2": "",

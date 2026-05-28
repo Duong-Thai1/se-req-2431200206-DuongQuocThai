@@ -1,5 +1,5 @@
 {
-  "savedAt": "2026-05-28T13:43:27.220Z",
+  "savedAt": "2026-05-28T13:44:47.212Z",
   "groups": [
     {
       "id": "233a95b6-8518-40e0-925b-6658ae93b641",
@@ -52,6 +52,16 @@
       "id": "67250fdd-3c57-4f51-a42e-3f4a7fa1d076",
       "title": "US004: Account creation restriction",
       "description": "As a Student Union President, I want emails to at least have \".edu\" to create accounts, so that I can prevent random people from the city to access the app.\n\nAcceptance criteria:\n1. Account mustn't be created if the email does not have \".edu\".",
+      "groupId": "6d2cebc6-f888-4106-a067-49356522d25c",
+      "status": "todo",
+      "type": "User Story",
+      "priority": "Urgent",
+      "owner": "Product Owner"
+    },
+    {
+      "id": "8c9a3477-aac5-41d2-b5ca-a2068b34ab17",
+      "title": "US005: Compulsory Safe Exchange Zone Selection",
+      "description": "As a Campus Police, I want the app to force users to select a safe exchange zone before they can chat, so that both buyers and sellers are safe.\n\nAcceptance criteria:\n1. Buyer and seller mustn't be able to chat unless they have selected a safe zone\n2. Safe exchange zone can still be changed during the chat, but can never be outside of safe zones.",
       "groupId": "6d2cebc6-f888-4106-a067-49356522d25c",
       "status": "todo",
       "type": "User Story",

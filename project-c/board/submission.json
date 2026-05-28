@@ -1,5 +1,5 @@
 {
-  "savedAt": "2026-05-28T13:52:38.366Z",
+  "savedAt": "2026-05-28T13:53:17.077Z",
   "groups": [
     {
       "id": "7ce400ee-9855-4b16-914c-e7c5f9500af8",
@@ -67,6 +67,36 @@
       "type": "User Story",
       "priority": "High",
       "owner": "Product Owner"
+    },
+    {
+      "id": "1ab5a27f-46b6-452a-9396-6c0a34989378",
+      "title": "NFR Epic 1: Reliability: Filtered menu must show no filtered items",
+      "description": "Reliability: Filtered menu must show no filtered items",
+      "groupId": "b7bb2cec-aa48-4ad0-a36e-6e5a796781b7",
+      "status": "todo",
+      "type": "Epic",
+      "priority": "Medium",
+      "owner": ""
+    },
+    {
+      "id": "ac47c49a-5103-4d9f-9053-e12df49f222b",
+      "title": "NFR Epic 2: Reliability: system must still work offline for at least 10 minutes wi",
+      "description": "Reliability: system must still work offline for at least 10 minutes without crashing if the internet cuts out",
+      "groupId": "b7bb2cec-aa48-4ad0-a36e-6e5a796781b7",
+      "status": "todo",
+      "type": "Epic",
+      "priority": "Medium",
+      "owner": ""
+    },
+    {
+      "id": "5f626a37-29c2-4d30-8227-0393390a512c",
+      "title": "NFR Epic 3: Performance: Push notfications must be sent to student at 11:30 AM",
+      "description": "Performance: Push notfications must be sent to student at 11:30 AM",
+      "groupId": "b7bb2cec-aa48-4ad0-a36e-6e5a796781b7",
+      "status": "todo",
+      "type": "Epic",
+      "priority": "Medium",
+      "owner": ""
     }
   ],
   "analysis": {

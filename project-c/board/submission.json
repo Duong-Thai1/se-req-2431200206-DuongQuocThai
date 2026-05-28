@@ -1,5 +1,5 @@
 {
-  "savedAt": "2026-05-28T13:51:55.389Z",
+  "savedAt": "2026-05-28T13:52:38.366Z",
   "groups": [
     {
       "id": "7ce400ee-9855-4b16-914c-e7c5f9500af8",
@@ -56,6 +56,16 @@
       "status": "todo",
       "type": "User Story",
       "priority": "Urgent",
+      "owner": "Product Owner"
+    },
+    {
+      "id": "f6317f22-9092-4853-b6cd-6bf958332162",
+      "title": "US005: Offline menu displaying",
+      "description": "As an IT Infrastructure Team, I want the app to keep displaying loaded products when there is no internet, so that students can still plan their orders without major interruption.\n\nAcceptance criteria:\n1. Student must be able to see all products in their current pages and other pages.\n2. The app must notify students that they are offline.\n3. The app must be able to show at least 100 products of the menu when offline.",
+      "groupId": "b7bb2cec-aa48-4ad0-a36e-6e5a796781b7",
+      "status": "todo",
+      "type": "User Story",
+      "priority": "High",
       "owner": "Product Owner"
     }
   ],

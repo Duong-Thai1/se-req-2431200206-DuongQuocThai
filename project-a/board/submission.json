@@ -1,5 +1,5 @@
 {
-  "savedAt": "2026-05-28T13:32:20.583Z",
+  "savedAt": "2026-05-28T13:33:44.310Z",
   "groups": [
     {
       "id": "3276a7b7-66ec-412f-aa9a-32c828fb5297",
@@ -26,6 +26,16 @@
       "status": "todo",
       "type": "User Story",
       "priority": "High",
+      "owner": "Product Owner"
+    },
+    {
+      "id": "c3e4be07-e703-4f53-9321-280d75ac13ab",
+      "title": "US002: Class registration user interface",
+      "description": "As a student, I want to drag and drop classes into a calendar, so that I can easily create an optimal plan.\n\nAcceptance Criteria:\n1. Drag and drop must update the class in < 1 second.\n2. The class after dropped mustn't be added to calendar if its time override other classes time, and warn the student about the override at the same time.\n3. The calendar's size must be 50% of the app for any devices (laptops, phones,...)",
+      "groupId": "12df1d2a-ef82-474c-a8e8-4747dad932fe",
+      "status": "todo",
+      "type": "User Story",
+      "priority": "Medium",
       "owner": "Product Owner"
     }
   ],

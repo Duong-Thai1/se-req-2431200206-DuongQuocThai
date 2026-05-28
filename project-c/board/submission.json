@@ -1,5 +1,5 @@
 {
-  "savedAt": "2026-05-28T13:28:30.392Z",
+  "savedAt": "2026-05-28T13:47:23.542Z",
   "groups": [
     {
       "id": "7ce400ee-9855-4b16-914c-e7c5f9500af8",
@@ -17,7 +17,18 @@
       "color": "#d97706"
     }
   ],
-  "tickets": [],
+  "tickets": [
+    {
+      "id": "c65c1fd5-ac0d-4f77-9c13-a5b6085c4f09",
+      "title": "US001: Menu Filter",
+      "description": "As a student, I want to be able to filter ingredients as checkboxes, so that I can avoid stuff that I can't consume.\n\nAcceptance criteria:\n1. Filtered food mustn't appear in the filtered menu.\n2. Loading menu can only take less than 5 seconds.\n3. Food user interface mustn't be outside of the menu box user interface.",
+      "groupId": "b7bb2cec-aa48-4ad0-a36e-6e5a796781b7",
+      "status": "todo",
+      "type": "User Story",
+      "priority": "High",
+      "owner": "Product Owner"
+    }
+  ],
   "analysis": {
     "ambiguity1": "\"I need to filter the entire menu\" is unclear. We don't know how the filter should work (whitelisting / blacklisting, sorting food descending or ascending by price, include only drinks / foods,...).",
     "ambiguity2": "\"I need to be able to mark an item as Sold Out instantly\" is vague. We don't know how fast the feature should be (200 miliseconds or 5 seconds or 10 minutes,...).",

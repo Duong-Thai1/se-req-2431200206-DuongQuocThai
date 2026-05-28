@@ -1,5 +1,5 @@
 {
-  "savedAt": "2026-05-28T13:36:31.709Z",
+  "savedAt": "2026-05-28T13:37:50.601Z",
   "groups": [
     {
       "id": "3276a7b7-66ec-412f-aa9a-32c828fb5297",
@@ -56,6 +56,16 @@
       "status": "todo",
       "type": "User Story",
       "priority": "High",
+      "owner": "Product Owner"
+    },
+    {
+      "id": "d3113274-171f-4116-9dd5-f1d4a03b28fa",
+      "title": "US005: Student data protection",
+      "description": "As an IT Security Officer, I want to prevent student from seeing other students' schedule, so that their data is protected.\n\nAcceptance criteria:\n1. Student's schedule mustn't be seen by other students.",
+      "groupId": "12df1d2a-ef82-474c-a8e8-4747dad932fe",
+      "status": "todo",
+      "type": "User Story",
+      "priority": "Urgent",
       "owner": "Product Owner"
     }
   ],

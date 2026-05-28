@@ -1,5 +1,5 @@
 {
-  "savedAt": "2026-05-28T13:22:44.119Z",
+  "savedAt": "2026-05-28T13:40:35.662Z",
   "groups": [
     {
       "id": "233a95b6-8518-40e0-925b-6658ae93b641",
@@ -17,7 +17,18 @@
       "color": "#d97706"
     }
   ],
-  "tickets": [],
+  "tickets": [
+    {
+      "id": "f1688b78-5f4b-423d-8e2b-edbe4afc6b6e",
+      "title": "US001: Student barcode scanning",
+      "description": "As a student, I want to be able to scan my items' barcode to type in the ISBN and Title, so that I can conveniently sell an item.\n\nAcceptance criteria: \n1. The app must retrieve correct information from the barcode.\n2. The barcode to item's details transfer must happen in < 3 seconds.",
+      "groupId": "6d2cebc6-f888-4106-a067-49356522d25c",
+      "status": "todo",
+      "type": "User Story",
+      "priority": "Medium",
+      "owner": "Product Owner"
+    }
+  ],
   "analysis": {
     "ambiguity1": "\"Only people with a valid .edu email address can create an account\" is unclear. There are different formats for student email address (name.surname.edu, namesurname.edu, surname.edu.vn,...).",
     "ambiguity2": "\"I want to be able to auction items\" is ambigious. The requirement doesn't provide clear details of the auction (is there limit to the price, can users limit how long an auction should last,...).",

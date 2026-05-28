@@ -1,5 +1,5 @@
 {
-  "savedAt": "2026-05-28T13:14:04.304Z",
+  "savedAt": "2026-05-28T13:15:21.394Z",
   "groups": [
     {
       "id": "3276a7b7-66ec-412f-aa9a-32c828fb5297",
@@ -20,7 +20,7 @@
   "tickets": [],
   "analysis": {
     "ambiguity1": "\"The course catalog is ugly.\" is not clear. We don't know why it's ugly and how can we make it better (change color, font, adding user interface,...)",
-    "ambiguity2": "",
+    "ambiguity2": "\"The system needs to stop them from even asking.\" is ambiguous. How can we know which questions to stop them? Need to clarify better type of whitelisted/ blacklisted questions.",
     "conflictSolution": "",
     "nfr1": "",
     "nfr2": "",

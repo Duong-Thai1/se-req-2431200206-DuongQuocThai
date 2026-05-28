@@ -1,5 +1,5 @@
 {
-  "savedAt": "2026-05-28T13:40:35.662Z",
+  "savedAt": "2026-05-28T13:41:46.479Z",
   "groups": [
     {
       "id": "233a95b6-8518-40e0-925b-6658ae93b641",
@@ -22,6 +22,16 @@
       "id": "f1688b78-5f4b-423d-8e2b-edbe4afc6b6e",
       "title": "US001: Student barcode scanning",
       "description": "As a student, I want to be able to scan my items' barcode to type in the ISBN and Title, so that I can conveniently sell an item.\n\nAcceptance criteria: \n1. The app must retrieve correct information from the barcode.\n2. The barcode to item's details transfer must happen in < 3 seconds.",
+      "groupId": "6d2cebc6-f888-4106-a067-49356522d25c",
+      "status": "todo",
+      "type": "User Story",
+      "priority": "Medium",
+      "owner": "Product Owner"
+    },
+    {
+      "id": "8927a6f1-b8dc-493f-bf8b-33e91f49dfef",
+      "title": "US002: Student item auction",
+      "description": "As a student, I want to be able to auction my items and decide how long it will last, so that I won't have to set a fixed price.\n\nAcceptance criteria:\n1. The must handle at least 500 requests for an item auction.\n2. No request can be added when the auction is ended.\n3. Any request with lower price than the current mustn't be added.",
       "groupId": "6d2cebc6-f888-4106-a067-49356522d25c",
       "status": "todo",
       "type": "User Story",

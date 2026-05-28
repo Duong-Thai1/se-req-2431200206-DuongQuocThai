@@ -1,5 +1,5 @@
 {
-  "savedAt": "2026-05-28T13:41:46.479Z",
+  "savedAt": "2026-05-28T13:42:46.660Z",
   "groups": [
     {
       "id": "233a95b6-8518-40e0-925b-6658ae93b641",
@@ -36,6 +36,16 @@
       "status": "todo",
       "type": "User Story",
       "priority": "Medium",
+      "owner": "Product Owner"
+    },
+    {
+      "id": "b2917aa1-8ef6-413f-af43-0b2ac26a675c",
+      "title": "US003: Student account creation",
+      "description": "As a student, I want to create an account with my student's Google account, so that I can easily create an account.\n\nAcceptance criteria:\n1. The system must redirect student to Google's login page.\n2. Any registration mustn't be able to use logged in with Google account's email.\n3. The account creation must take less than 5 seconds to process.",
+      "groupId": "6d2cebc6-f888-4106-a067-49356522d25c",
+      "status": "todo",
+      "type": "User Story",
+      "priority": "High",
       "owner": "Product Owner"
     }
   ],

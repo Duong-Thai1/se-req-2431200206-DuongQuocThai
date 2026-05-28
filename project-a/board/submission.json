@@ -1,5 +1,5 @@
 {
-  "savedAt": "2026-05-28T13:33:44.310Z",
+  "savedAt": "2026-05-28T13:35:26.662Z",
   "groups": [
     {
       "id": "3276a7b7-66ec-412f-aa9a-32c828fb5297",
@@ -32,6 +32,16 @@
       "id": "c3e4be07-e703-4f53-9321-280d75ac13ab",
       "title": "US002: Class registration user interface",
       "description": "As a student, I want to drag and drop classes into a calendar, so that I can easily create an optimal plan.\n\nAcceptance Criteria:\n1. Drag and drop must update the class in < 1 second.\n2. The class after dropped mustn't be added to calendar if its time override other classes time, and warn the student about the override at the same time.\n3. The calendar's size must be 50% of the app for any devices (laptops, phones,...)",
+      "groupId": "12df1d2a-ef82-474c-a8e8-4747dad932fe",
+      "status": "todo",
+      "type": "User Story",
+      "priority": "Medium",
+      "owner": "Product Owner"
+    },
+    {
+      "id": "e41f7b83-4aad-4b5f-9f91-d41810f3b078",
+      "title": "US003: Student's time boundary",
+      "description": "As a student, I want to set start and end time boundary for my plan which prevent class with time outside of the boundary from being added to my plan, so that I can avoid having classes that I can't attend.\n\nAcceptance criteria:\n1. Classes that don't start and end in the boundary musn't be added.\n2. The system must be able to handle a plan consists of 50 classes with the delay < 500 miliseconds for any new class added.",
       "groupId": "12df1d2a-ef82-474c-a8e8-4747dad932fe",
       "status": "todo",
       "type": "User Story",

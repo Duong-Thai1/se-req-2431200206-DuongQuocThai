@@ -1,0 +1,29 @@
+{
+  "savedAt": "2026-05-28T13:25:00.257Z",
+  "groups": [
+    {
+      "id": "7ce400ee-9855-4b16-914c-e7c5f9500af8",
+      "name": "Blockers",
+      "color": "#2563eb"
+    },
+    {
+      "id": "b7bb2cec-aa48-4ad0-a36e-6e5a796781b7",
+      "name": "Standard Work",
+      "color": "#059669"
+    },
+    {
+      "id": "75461af6-e4a8-4b29-afe5-03d0494c241a",
+      "name": "Minors",
+      "color": "#d97706"
+    }
+  ],
+  "tickets": [],
+  "analysis": {
+    "ambiguity1": "\"I need to filter the entire menu\" is unclear. We don't know how the filter should work (whitelisting / blacklisting, sorting food descending or ascending by price, include only drinks / foods,...).",
+    "ambiguity2": "",
+    "conflictSolution": "",
+    "nfr1": "",
+    "nfr2": "",
+    "nfr3": ""
+  }
+}

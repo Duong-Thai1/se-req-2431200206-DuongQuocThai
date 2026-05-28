@@ -1,5 +1,5 @@
 {
-  "savedAt": "2026-05-28T13:48:56.716Z",
+  "savedAt": "2026-05-28T13:50:57.015Z",
   "groups": [
     {
       "id": "7ce400ee-9855-4b16-914c-e7c5f9500af8",
@@ -36,6 +36,16 @@
       "status": "todo",
       "type": "User Story",
       "priority": "High",
+      "owner": "Product Owner"
+    },
+    {
+      "id": "759baf99-6772-4af0-b3fd-c46000f626cf",
+      "title": "US003: Online ordering",
+      "description": "As a student, I want to be able to place order online with multiple products, so that I can save some time waiting.\n\nAcceptance criteria:\n1. The order must show all the ordered products.\n2. The student can order at any distance.\n3. The order must be sent to the main cafeteria in < 2 seconds.",
+      "groupId": "b7bb2cec-aa48-4ad0-a36e-6e5a796781b7",
+      "status": "todo",
+      "type": "User Story",
+      "priority": "Urgent",
       "owner": "Product Owner"
     }
   ],

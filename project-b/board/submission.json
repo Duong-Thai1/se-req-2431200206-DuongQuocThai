@@ -1,0 +1,29 @@
+{
+  "savedAt": "2026-05-28T13:19:33.453Z",
+  "groups": [
+    {
+      "id": "233a95b6-8518-40e0-925b-6658ae93b641",
+      "name": "Blockers",
+      "color": "#2563eb"
+    },
+    {
+      "id": "6d2cebc6-f888-4106-a067-49356522d25c",
+      "name": "Standard Work",
+      "color": "#059669"
+    },
+    {
+      "id": "61de98fe-572c-4c6a-a3d4-0c64e728fc08",
+      "name": "Minors",
+      "color": "#d97706"
+    }
+  ],
+  "tickets": [],
+  "analysis": {
+    "ambiguity1": "\"Only people with a valid .edu email address can create an account\" is unclear. There are different formats for student email address (name.surname.edu, namesurname.edu, surname.edu.vn,...).",
+    "ambiguity2": "",
+    "conflictSolution": "",
+    "nfr1": "",
+    "nfr2": "",
+    "nfr3": ""
+  }
+}

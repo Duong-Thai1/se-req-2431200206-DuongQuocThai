@@ -1,5 +1,5 @@
 {
-  "savedAt": "2026-05-28T13:16:21.141Z",
+  "savedAt": "2026-05-28T13:17:50.224Z",
   "groups": [
     {
       "id": "3276a7b7-66ec-412f-aa9a-32c828fb5297",
@@ -22,8 +22,8 @@
     "ambiguity1": "\"The course catalog is ugly.\" is not clear. We don't know why it's ugly and how can we make it better (change color, font, adding user interface,...)",
     "ambiguity2": "\"The system needs to stop them from even asking.\" is ambiguous. How can we know which questions to stop them? Need to clarify better type of whitelisted/ blacklisted questions.",
     "conflictSolution": "Feedback from the Registrar: \"the Advising Head said they want students to be able to plan 4 years ahead, even if we do not know if the class is full yet.\" shows conflict between Head of Advising and Registrar. We can solve this conflict by allowing students to create plans for 4 years ahead, but the courses in their plans must be removed if the planned classes are full.",
-    "nfr1": "",
-    "nfr2": "",
-    "nfr3": ""
+    "nfr1": "Security: Student mustn't be able to see another student schedule.",
+    "nfr2": "Security: The system must log every time an advisor manually overrides a prerequisite for audit purposes.",
+    "nfr3": "Security: Student musn't be able to add class that is full to their roadmap."
   }
 }
